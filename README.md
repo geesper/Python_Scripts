@@ -1,2 +1,2 @@
 # Python_Scripts
-Random python scripts for reference
+These are some random python scripts I've created. Nothing really fancy.
